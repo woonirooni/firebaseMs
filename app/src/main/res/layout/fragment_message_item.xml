@@ -12,7 +12,7 @@
             android:orientation="horizontal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-        <firebase.hucloud.com.firetalk.customviews.RoundedImageView
+        <firebase.wooni.com.firetalk.customviews.RoundedImageView
                 android:id="@+id/rcvProfile"
                 android:src="@mipmap/ic_launcher"
                 android:layout_width="50dp"

@@ -4,7 +4,7 @@
               android:layout_height="match_parent"
               android:gravity="center_horizontal"
               android:orientation="vertical"
-              tools:context="firebase.hucloud.com.firetalk.views.LoginActivity">
+              tools:context="firebase.wooni.com.firetalk.views.LoginActivity">
 
     <!-- Login progress -->
     <ProgressBar

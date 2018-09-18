@@ -10,7 +10,7 @@
                   android:paddingBottom="8dp"
                   android:layout_height="wrap_content">
 
-        <firebase.hucloud.com.firetalk.customviews.RoundedImageView
+        <firebase.wooni.com.firetalk.customviews.RoundedImageView
                 android:id="@+id/thumb"
                 android:layout_width="@dimen/button_size"
                 android:padding="8dp"
